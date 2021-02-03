@@ -1,0 +1,10 @@
+axes.titlesize : 18
+axes.labelsize : 18
+xtick.labelsize : 15
+ytick.labelsize : 15
+
+legend.fontsize : 15
+
+
+axes.spines.right : False
+axes.spines.top : False
